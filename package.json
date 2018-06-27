@@ -17,7 +17,7 @@
     "authentication",
     "ldapauth"
   ],
-  "version": "1.0.1-beta.1",
+  "version": "1.0.2",
   "license": "MIT",
   "main": "./lib/passport-ldapauth",
   "engines": {
@@ -32,7 +32,7 @@
   },
   "dependencies": {
     "passport-strategy": "^1.0.0",
-    "ldapauth-fork-plus": "4.0.0-beta.1"
+    "ldapauth-fork-plus": "^4.0.1"
   },
   "devDependencies": {
     "basic-auth": "^1.1.0",
